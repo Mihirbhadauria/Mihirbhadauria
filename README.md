@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Mihirbhadauria
 - 👀 I’m interested in Software Developement and Data Engineering
-- 🌱 I’m currently trying to master Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me >> email: mihirbhadauria@gmail.com
 
+I am currently focused on end to end depoloyments of reporting solutions starting all the way from gathering requirements to buidling ETL processes via ETL tools such as Python & PowerQuery then model and present the data in PowerBi
